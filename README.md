@@ -30,3 +30,8 @@ Pemograman Prosedural `PEMPROS` merupakan salah satu mata kuliah dalam bidang `S
 [`M01 | Hidden Message | UTS`](https://github.com/herisitompul/ProceduralProgamming/tree/main/2223-ge-m01-hidden-message-mickaelsitompul)
 <br />
 [`F01 | Todos | UAS`](https://github.com/herisitompul/ProceduralProgamming/tree/main/2223-ge-f01-todos-mickaelsitompul)
+
+
+Copyright © 2023, Mickael Sitompul. Released under [Information Systems](https://www.del.ac.id/?page_id=3534), FITE, [Del Institute of Technology](https://www.del.ac.id/)
+***
+_This property is intended as a project in the Procedural Programming course_
