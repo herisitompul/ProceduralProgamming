@@ -25,3 +25,8 @@ Pemograman Prosedural `PEMPROS` merupakan salah satu mata kuliah dalam bidang `S
 [`T10 | Pointer to Function`](https://github.com/herisitompul/ProceduralProgamming/tree/main/2223-ge-t10-pointer-to-function-mickaelsitompul)
 <br />
 [`T11 | File Operation`](https://github.com/herisitompul/ProceduralProgamming/tree/main/2223-ge-t11-file-operation-mickaelsitompul)
+
+# `Exam`💻
+[`M01 | Hidden Message | UTS`]
+<br />
+[`F01 | Todos | UAS`]
