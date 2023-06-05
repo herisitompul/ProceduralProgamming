@@ -1,0 +1,3 @@
+mencoba menyelesaikan percobaan
+membandingkan Expected dan Actual
+memeriksa apakah sudah teratasi
